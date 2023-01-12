@@ -22,6 +22,6 @@ library(igraph)
 ```
 
 ```{r}
-print("Hello, network!")
+print("Hello, TA!")
 ```
 
