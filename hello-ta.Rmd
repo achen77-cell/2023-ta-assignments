@@ -15,5 +15,5 @@ library(igraph)
 
 
 ```{r}
-print("Hello, TA!")
+#Hello, TA!
 ```
