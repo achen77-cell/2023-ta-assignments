@@ -1,6 +1,8 @@
 Exercise 0
 ================
 
+Hello, TA!
+
 ``` r
 library(tidyverse)
 ```
@@ -46,7 +48,5 @@ library(igraph)
     ##     union
 
 ``` r
-print("Hello, TA!")
+#Hello, TA!
 ```
-
-    ## [1] "Hello, TA!"

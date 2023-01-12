@@ -2,7 +2,7 @@
 title: "Exercise 0"
 output: github_document
 ---
-
+Hello, TA!
 
 ```{r}
 library(tidyverse)
