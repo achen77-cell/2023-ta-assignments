@@ -1,7 +1,6 @@
 ---
 title: "Exercise 0"
-output: pdf_document
-date: "2023-01-11"
+output: github_document
 ---
 
 
@@ -18,9 +17,3 @@ library(igraph)
 ```{r}
 print("Hello, TA!")
 ```
-
-
-```{r}
-```
-
-
